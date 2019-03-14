@@ -3,7 +3,7 @@
  */
 public class Foo {
     static {
-        if (true) throw new NullPointerException();
+        if (false) throw new NullPointerException();
     }
     public static void run(){
 
