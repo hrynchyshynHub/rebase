@@ -6,6 +6,6 @@ public class Foo {
         if (false) throw new NullPointerException();
     }
     public static void run(){
-
+        System.out.println("foo");
     }
 }
