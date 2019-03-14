@@ -29,6 +29,7 @@ public class Main {
         finally {
             run();
         }
+        System.out.println("master here");
     }
 }
 
