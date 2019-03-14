@@ -7,5 +7,6 @@ public class Foo {
     }
     public static void run(){
         System.out.println("foo");
+        System.out.println("First after merge");
     }
 }
